@@ -155,4 +155,4 @@ These are deliberate limits, not oversights:
 
 This was built in Cursor, one GitHub issue/PR per milestone. Agents handled a lot of scaffolding; humans set the guarantees and what stayed out of scope (see `PLAN.md`).
 
-For the challenge brief: **export your Cursor chat or agent transcripts and attach them with the submission** — they are not checked into this repo. The required pipe ASCII art is a comment in [`src/db.ts`](./src/db.ts).
+For the challenge brief: Cursor transcripts located in the [`transcipts/`](./transcripts/) folder. The required pipe ASCII art is a comment in [`src/db.ts`](./src/db.ts).
